@@ -1,0 +1,252 @@
+
+            <!doctype html>
+            <html>
+                <head>
+                    <meta charset="utf-8">
+                    <style>
+    html {
+      font-size: 1rem;
+      width: 100%;
+      margin: 0 auto;
+    }
+
+    p {
+      font-size: 1.1rem;
+      line-height: 1.66rem;
+      width: 100%;
+      color: #C3C3C1;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-style: bold;
+      margin-top: 2rem;
+      line-height: 2rem;
+    }
+
+    h1 {
+      font-size: 2rem;
+      text-align: center;
+      text-transform: uppercase;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      text-transform: uppercase;
+    }
+
+    h3 {
+      font-size: 1.25rem;
+    }
+
+    h4 {
+      font-size: 1.125rem;
+    }
+
+    h5 {
+      font-size: 1.1rem;
+    }
+
+    h6 {
+      font-size: 1rem;
+    }
+
+    small {
+      font-size: .7em;
+    }
+
+    img,
+    canvas,
+    iframe,
+    video,
+    select,
+    textarea {
+      display: block;
+      max-width: 50%;
+    }
+
+    body {
+      color: #C3C3C3;
+      background-color: #111111;
+      font-weight: 400;
+      line-height: 1.4rem;
+      margin-left: 40px;
+      margin-right: 40px;
+      margin-top: 40px;
+      margin-bottom: 40px;
+      text-align: left;
+    }
+
+    table {
+      border-spacing: 0;
+      border-collapse: collapse;
+      margin-top: 0;
+      margin-bottom: 16px;
+    }
+
+    table th {
+      font-weight: bold;
+      background-color: #2b2b2b;
+    }
+
+    table th,
+    table td {
+      padding: 8px 13px;
+      border: 1px solid #2b2b2b;
+    }
+
+    table tr {
+      border-top: 1px solid #2b2b2b;
+    }
+
+    img {
+      height: auto;
+      margin: 0 auto;
+    }
+
+    a,
+    a:visited,
+    a:hover,
+    a:focus,
+    a:active {
+      color: #1d99f3;
+    }
+
+    code{
+      display: inline-block;
+      padding: 0 0.25rem;
+      background-color: #23241c;
+      border: 1px solid #23241c;
+      border-radius: 4px;
+      font-family: 'Quilt Mono', monospace;
+      font-weight: normal;
+    }
+
+    pre code{
+      display: block;
+      margin: 1rem auto;
+      overflow-x: scroll;
+      padding: 0.5em;
+    }
+
+    blockquote {
+      margin: 0;
+      border-left: 5px solid #7E8087;
+      font-style: italic;
+      padding-left: .8rem;
+      margin-left: .8rem;
+      text-align: left;
+    }
+
+    blockquote > p {
+      color: inherit;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+
+    ul {
+      list-style: disc;
+    }
+
+    ul>li {
+      font-size: 18px;
+    }
+
+    hr {
+      overflow: visible;
+      padding: 0;
+      border: none;
+      color: inherit;
+      text-align: center;
+    }
+    hr:after {
+      content: "...";
+      letter-spacing: .6em;
+      display: inline-block;
+      position: relative;
+      top: -0.3rem;
+      font-size: 1.65em;
+      padding: 0 0.25em;
+      background: inherit;
+    }
+  
+                html {
+                    padding-bottom: 10%;
+                }
+                </style>
+                    
+                    
+                    <link rel="stylesheet" href="/usr/share/com.github.lainsce.quilter/katex/katex.css">
+                    <script defer src="/usr/share/com.github.lainsce.quilter/katex/katex.js"></script>
+                    <script defer src="/usr/share/com.github.lainsce.quilter/katex/render.js" onload="renderMathInElement(document.body);"></script>
+                
+                    <link rel="stylesheet" href="/usr/share/com.github.lainsce.quilter/font/sans.css"/>
+                </head>
+                <body>
+                    
+                    <script defer src="/usr/share/com.github.lainsce.quilter/mermaid/mermaid.js" onload="mermaid.initialize({startOnLoad:true;});"></script>
+                
+                    <div class="markdown-body">
+                        <p><img src="./dependecoj/ikono.png" alt="Наш логотип" /></p>
+
+<a name="L-d0--9f--d1--80--d0--b8--d0--b3--d0--bb--d0--b0--d1--88--d0--b5--d0--bd--d0--b8--d0--b5---d0--b2---d0--ba--d0--bb--d1--83--d0--b1---d0--b8--d0--b4--d0--b5--d0--b0--d0--bb--d0--b8--d1--81--d1--82--d0--be--d0--b2---22-Renaski-c4--9d-o-22-"></a>
+<h1>Приглашение в клуб идеалистов &ldquo;Renaskiĝo&rdquo;</h1>
+
+<a name="L-d0--9c--d1--8b---d0--b8--d0--b7--d0--bc--d0--b5--d0--bd--d0--b8--d0--bc---d0--bc--d0--b8--d1--80---d0--ba---d0--bb--d1--83--d1--87--d1--88--d0--b5--d0--bc--d1--83-"></a>
+<h1>Мы изменим мир к лучшему</h1>
+
+<a name="L-d0--9d--d0--b0--d1--88--d0--b8---d0--b8--d0--b4--d0--b5--d0--b8-"></a>
+<h2>Наши идеи</h2>
+
+<p><strong> 1. Общественное обязано быть идеальным. </strong> К вещам, которые ты будешь публиковать, надо относится со всей гордостью, стоять за ними горой и не позвалять быть осуждёнными.</p>
+
+<p><strong> 2. Получать привелегии и вещи надо заслугами, а не иными инструментами. </strong> К примеру: ты хочешь получить безграничное количество красок, оргормный холст и т.д. Сначало тебе надо развиться в сфере рисования (на столько, сколько считаешь приемлемо), а затем, у людей которые уже имеют доступ к тем вещам, запросить доступ - это идеал.</p>
+
+<p><strong> 3. О человечестве, о себе, надо думать как о муравье. </strong> Мы &ndash; существа биологическо-социальны, только от муравьев отличаемся самосознанием, укоренной жадностью и агресивностью. Думать надо обо всех не как &ldquo;чем это поможет всем?&rdquo;, а как &ldquo;чем это поможет <strong>нам</strong>?&rdquo;.</p>
+
+<p>Если ты с чем-то не согласен &ndash; <a href="https://t.me/zajxigin">отпиши мне</a>, с чем именно и почему.</p>
+
+<a name="L-d0--a7--d1--82--d0--be---d1--82--d1--80--d0--b5--d0--b1--d1--83--d0--b5--d1--82--d1--81--d1--8f---d0--be--d1--82---d1--83--d1--87--d0--b0--d1--81--d1--82--d0--bd--d0--b8--d0--ba--d0--be--d0--b2--3f-"></a>
+<h2>Что требуется от участников?</h2>
+
+<p><strong> 1. </strong> Как-бы это странно не было, <strong> следовать идеям и философии клуба. </strong> Если откажитесь - делать Вам здесь нечего.</p>
+
+<p><strong> 2. Готовность помогать развитию идей в обществе. </strong> Мы же не хотим чтоб человечество стояло на месте? А в одним это делать достаточно сложно и неэффективно. Поэтому понадобится помощь от оценки текста до организаций выступлений (с учётом твоих возможностей).</p>
+
+<p><strong> 2.1. Развивать <a href="https://ru.wiktionary.org/wiki/%D1%81%D0%B0%D1%80%D0%B0%D1%84%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE">сарафанное радио</a>. </strong> Это обязательно, но черезмерная активность не требуется.</p>
+
+<a name="L-e2--86--92---d0--9f--d1--80--d0--b8--d1--81--d0--be--d0--b8--d0--b4--d0--b5--d0--bd--d0--b8--d1--82--d1--8c--d1--81--d1--8f---e2--86--90-"></a>
+<h1>→ <a href="https://t.me/joinchat/Ot2BvRe42PQ3iLjZ9M2A5A">Присоидениться</a> ←</h1>
+
+<a name="L-d0--9e--d1--82--d0--b2--d0--b5--d1--82--d1--8b---d0--bd--d0--b0---d0--b2--d0--be--d0--bf--d1--80--d0--be--d1--81--d1--8b-"></a>
+<h2>Ответы на вопросы</h2>
+
+<p><strong> Зачем? </strong><br/>
+- Нынешние устои не идеальны и отвратительны, так ещё и укрепляются с каждой секундой, подобну раку. Например деньги, такой инструмент придумали вообще в спешке, ведь разделить велосипед на 1/5 чтоб купить чернильную ручку &ndash; нельзя, а время идёт. Теперь-же эти деньги выжигают общество. &ldquo;Пфф, не у всех же всё плохо?)))&rdquo; - только для отдельных личностей. Думать надо обо всех, а то получается что муравьи более развиты чем люди, без учёта уникальности.</p>
+
+<p><strong> Какая выгода производителям? Без денег никак! </strong><br/>
+- Пример когда возникла данная проблема: художникам нужны холсты, они просят у инженеров-технологов реализовать производство холстов. Зачем инженеру это делать? 1 - Он замотивирован, на холсты есть спрос. 2 - Даже после смерти, эта фабрика будет востребована. 3 - Он любит свою работу.</p>
+
+<p><strong> Что значит &ldquo;<a href="https://translate.google.com/#view=saved&amp;op=translate&amp;sl=ru&amp;tl=eo&amp;text=%D0%9F%D0%B5%D1%80%D0%B5%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5">Renaskiĝo</a>&rdquo;? </strong><br/>
+- Перерождение с языка эсперанто (&ldquo;ĝ&rdquo; читается как &ldquo;дж, "g&rdquo; как &ldquo;г&rdquo;).</p>
+
+<p><strong>Что символизирует логотип?</strong><br/>
+- Глаз, который вымеряет идеальный триугольник. Окружность указывает на то &ndash; что это общество, <a href="https://ru.wikipedia.org/wiki/%D0%98%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA">идеальный триугольник</a> &ndash; что стремимся к идеалу. Общество, которое стремится к реформации всего до идеала.</p>
+
+<p><strong> Почему так много упоминаний о деньгах? </strong><br/>
+- Потому что от денег возникает не мало производных проблем&hellip; На самом деле у автора просто заело :3</p>
+
+<hr />
+
+<p>Написали: Богдан Зажигин (Telegram: <a href="https://t.me/zajxigin">@zazjxigin</a>).<br/>
+Versio: Rusia 1.0</p>
+
+                    </div>
+                </body>
+            </html>
